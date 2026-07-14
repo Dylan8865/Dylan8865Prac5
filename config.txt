@@ -1,2 +1,0 @@
-system_title=App 1.0
-status=STABLE
