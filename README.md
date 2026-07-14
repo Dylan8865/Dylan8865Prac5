@@ -2,4 +2,4 @@
 
 Practical 5 repository for demonstrating adaptive maintenance with GitHub Desktop-style branching, pull requests, merge, revert, and fix workflows.
 
-Current configuration uses `config.txt`.
+Configuration requirement: this project now stores system settings in `config.json` instead of `config.txt`.
